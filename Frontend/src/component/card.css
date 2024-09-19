@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    gap:45px;
+}
+.card{
+    width: 300px;
+    height: 350px;
+    padding: 11px;
+    border-radius: 6px;
+    box-shadow: 0px 2px 2px 4px rgb(222, 220, 220);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card img{
+    width: 100px;
+    height: 300px;
+}
+
+.cardCamp{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 66px;
+}
